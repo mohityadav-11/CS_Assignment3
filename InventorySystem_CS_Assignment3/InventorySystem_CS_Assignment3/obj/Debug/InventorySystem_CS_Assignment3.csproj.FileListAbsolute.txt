@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\InventorySystem_CS_Assignment3\InventorySystem_CS_Assignment3\obj\Debug\InventorySystem_CS_Assignment3.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\InventorySystem_CS_Assignment3\InventorySystem_CS_Assignment3\bin\Debug\InventorySystem_CS_Assignment3.exe.config
+C:\Users\DELL\source\repos\InventorySystem_CS_Assignment3\InventorySystem_CS_Assignment3\bin\Debug\InventorySystem_CS_Assignment3.exe
+C:\Users\DELL\source\repos\InventorySystem_CS_Assignment3\InventorySystem_CS_Assignment3\bin\Debug\InventorySystem_CS_Assignment3.pdb
+C:\Users\DELL\source\repos\InventorySystem_CS_Assignment3\InventorySystem_CS_Assignment3\obj\Debug\InventorySystem_CS_Assignment3.exe
+C:\Users\DELL\source\repos\InventorySystem_CS_Assignment3\InventorySystem_CS_Assignment3\obj\Debug\InventorySystem_CS_Assignment3.pdb
